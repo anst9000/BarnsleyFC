@@ -1,0 +1,281 @@
+[
+  {
+    "team": "Barnsley",
+    "shirt": "13",
+    "name": "Jack Walton",
+    "position": "Goalkeeper",
+    "age": 21,
+    "birthday": "1998-04-23",
+    "country": "England"
+  },
+  {
+    "team": "Barnsley",
+    "shirt": "40",
+    "name": "Bradley Collins",
+    "position": "Goalkeeper",
+    "age": 22,
+    "birthday": "1997-02-18",
+    "country": "England"
+  },
+  {
+    "team": "Barnsley",
+    "shirt": "1",
+    "name": "Samuel Sahin-Radlinger",
+    "position": "Goalkeeper",
+    "age": 27,
+    "birthday": "1992-11-07",
+    "country": "Austria"
+  },
+  {
+    "team": "Barnsley",
+    "shirt": "24",
+    "name": "Aapo Halme",
+    "position": "Defender",
+    "age": 21,
+    "birthday": "1998-05-22",
+    "country": "Finland"
+  },
+  {
+    "team": "Barnsley",
+    "shirt": "12",
+    "name": "Dimitri Cavaré",
+    "position": "Defender",
+    "age": 24,
+    "birthday": "1995-02-05",
+    "country": "Guadeloupe"
+  },
+  {
+    "team": "Barnsley",
+    "shirt": "3",
+    "name": "Ben Williams",
+    "position": "Defender",
+    "age": 20,
+    "birthday": "1999-03-31",
+    "country": "Wales"
+  },
+  {
+    "team": "Barnsley",
+    "shirt": "23",
+    "name": "Dani Pinillos",
+    "position": "Defender",
+    "age": 27,
+    "birthday": "1992-10-22",
+    "country": "Spain"
+  },
+  {
+    "team": "Barnsley",
+    "shirt": "21",
+    "name": "Toby Sibbick",
+    "position": "Defender",
+    "age": 20,
+    "birthday": "1999-01-01",
+    "country": "England"
+  },
+  {
+    "team": "Barnsley",
+    "shirt": "2",
+    "name": "Jordan Williams",
+    "position": "Defender",
+    "age": 20,
+    "birthday": "1999-10-22",
+    "country": "England"
+  },
+  {
+    "team": "Barnsley",
+    "shirt": "6",
+    "name": "Mads Juel Andersen",
+    "position": "Defender",
+    "age": 21,
+    "birthday": "1997-12-27",
+    "country": "Denmark"
+  },
+  {
+    "team": "Barnsley",
+    "shirt": "5",
+    "name": "Bambo Diaby",
+    "position": "Defender",
+    "age": 22,
+    "birthday": "1997-12-17",
+    "country": "Senegal"
+  },
+  {
+    "team": "Barnsley",
+    "shirt": "8",
+    "name": "Cameron McGeehan",
+    "position": "Midfielder",
+    "age": 24,
+    "birthday": "1995-04-06",
+    "country": "Northern Ireland"
+  },
+  {
+    "team": "Barnsley",
+    "shirt": "27",
+    "name": "Alex Mowatt",
+    "position": "Midfielder",
+    "age": 24,
+    "birthday": "1995-02-13",
+    "country": "England"
+  },
+  {
+    "team": "Barnsley",
+    "shirt": "32",
+    "name": "Dylan Mottley-Henry",
+    "position": "Midfielder",
+    "age": 22,
+    "birthday": "1997-08-02",
+    "country": "England"
+  },
+  {
+    "team": "Barnsley",
+    "shirt": "--",
+    "name": "Jared Bird",
+    "position": "Midfielder",
+    "age": 22,
+    "birthday": "1997-08-21",
+    "country": "England"
+  },
+  {
+    "team": "Barnsley",
+    "shirt": "--",
+    "name": "Ken Dougall",
+    "position": "Midfielder",
+    "age": 26,
+    "birthday": "1993-05-07",
+    "country": "Australia"
+  },
+  {
+    "team": "Barnsley",
+    "shirt": "--",
+    "name": "Jasper Moon",
+    "position": "Midfielder",
+    "age": 19,
+    "birthday": "2000-11-24",
+    "country": "England"
+  },
+  {
+    "team": "Barnsley",
+    "shirt": "16",
+    "name": "Luke Thomas",
+    "position": "Attacker",
+    "age": 20,
+    "birthday": "1999-02-19",
+    "country": "England"
+  },
+  {
+    "team": "Barnsley",
+    "shirt": "26",
+    "name": "Mamadou Thiam",
+    "position": "Attacker",
+    "age": 24,
+    "birthday": "1995-03-20",
+    "country": "Senegal"
+  },
+  {
+    "team": "Barnsley",
+    "shirt": "9",
+    "name": "Cauley Woodrow",
+    "position": "Attacker",
+    "age": 25,
+    "birthday": "1994-12-02",
+    "country": "England"
+  },
+  {
+    "team": "Barnsley",
+    "shirt": "11",
+    "name": "Conor Chaplin",
+    "position": "Attacker",
+    "age": 22,
+    "birthday": "1997-02-16",
+    "country": "England"
+  },
+  {
+    "team": "Barnsley",
+    "shirt": "20",
+    "name": "Callum Styles",
+    "position": "Attacker",
+    "age": 19,
+    "birthday": "2000-03-28",
+    "country": "England"
+  },
+  {
+    "team": "Barnsley",
+    "shirt": "7",
+    "name": "Jacob Brown",
+    "position": "Attacker",
+    "age": 21,
+    "birthday": "1998-04-10",
+    "country": "England"
+  },
+  {
+    "team": "Barnsley",
+    "shirt": "15",
+    "name": "Jordan Green",
+    "position": "Attacker",
+    "age": 24,
+    "birthday": "1995-02-22",
+    "country": "England"
+  },
+  {
+    "team": "Barnsley",
+    "shirt": "36",
+    "name": "Mallik Wilks",
+    "position": "Attacker",
+    "age": 21,
+    "birthday": "1998-12-15",
+    "country": "England"
+  },
+  {
+    "team": "Barnsley",
+    "shirt": "19",
+    "name": "Patrick Schmidt",
+    "position": "Attacker",
+    "age": 21,
+    "birthday": "1998-07-22",
+    "country": "Austria"
+  },
+  {
+    "team": "Barnsley",
+    "shirt": "10",
+    "name": "Mike-Steven Bähre",
+    "position": "Attacker",
+    "age": 24,
+    "birthday": "1995-08-10",
+    "country": "Germany"
+  },
+  {
+    "team": "Barnsley",
+    "shirt": "22",
+    "name": "Clarke Odour",
+    "position": "Attacker",
+    "age": 20,
+    "birthday": "1999-06-25",
+    "country": "England"
+  },
+  {
+    "team": "Barnsley",
+    "shirt": "28",
+    "name": "Elliot Simoes",
+    "position": "Attacker",
+    "age": 20,
+    "birthday": "1999-12-20",
+    "country": "Portugal"
+  },
+  {
+    "team": "Barnsley",
+    "shirt": "37",
+    "name": "Aiden Marsh",
+    "position": "Attacker",
+    "age": 16,
+    "birthday": "2003-01-01",
+    "country": "England"
+  },
+  {
+    "team": "Barnsley",
+    "shirt": "--",
+    "name": "Gerhard Struber",
+    "position": "Coach",
+    "age": 42,
+    "birthday": "1977-01-24",
+    "country": "Austria"
+  }
+]
