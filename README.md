@@ -10,3 +10,6 @@
 
 ## Usage
 > It is possible to view selected player information, delete a player from the database, edit a players information and add a new player to the database. There is no special login or logout to be able to use the page.
+
+## Video description of application and code
+> You can watch a YouTube video at the following link, [https://youtu.be/9Z0f2-49E4g](https://youtu.be/9Z0f2-49E4g).
